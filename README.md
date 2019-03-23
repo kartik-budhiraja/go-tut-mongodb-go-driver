@@ -7,4 +7,4 @@ https://medium.com/dev-howto/how-to-use-go-with-mongodb-using-official-mongodb-g
 
 ![Go Tutorial][logo]
 
-[logo]: https://github.com/kartik-budhiraja/go-tut-mongodb-go-driver/MongoGo.jpg "Go Tutorial"
+[logo]: https://github.com/kartik-budhiraja/go-tut-mongodb-go-driver/blob/master/MongoGo.jpg "Go Tutorial"
